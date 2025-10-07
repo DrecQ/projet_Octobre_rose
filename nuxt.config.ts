@@ -13,6 +13,9 @@ app: {
     plugins: [
       tailwindcss(),
     ],
+     build: {
+      sourcemap: true
+    }
   },
 
  modules: ['@nuxt/image', '@nuxtjs/i18n',],
