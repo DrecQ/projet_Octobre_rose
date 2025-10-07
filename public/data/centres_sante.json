@@ -1,0 +1,88 @@
+{
+  "centres": [
+    {
+      "nom": "SIEGE SOCIAL",
+      "adresse_ligne1": "C / N° 1471 Immeuble AHOSSI",
+      "adresse_ligne2": "Dans la rue de la pharmacie Vêdoko",
+      "bp": "01BP 1486",
+      "ville": "Cotonou",
+      "pays": "République du Bénin",
+      "telephone": "91532424",
+      "email": "abpf@abpf.org",
+      "notes": null
+    },
+    {
+      "nom": "Clinique de Référence Nationale",
+      "adresse_ligne1": "C/791 Immeuble AFFOGBOLO",
+      "quartier": "Sikecodji",
+      "bp": "01BP 1486",
+      "ville": "Cotonou",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Centre Socio Educatif de Vêdoko",
+      "adresse_ligne1": "Dans la rue de la pharmacie Vêdoko",
+      "bp": null,
+      "ville": "Cotonou",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Coordination MONO-COUFFO",
+      "quartier": "AGNIVEDJI",
+      "bp": "BP : 110 LOKOSSA",
+      "ville": "LOKOSSA",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Coordination ATACORA - DONGA",
+      "quartier": "Ourbouga",
+      "bp": "BP : 81 Natitingou",
+      "ville": "NATITINGOU",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Coordination BORGOU - ALIBORI",
+      "quartier": "TRANZA",
+      "bp": "BP : 34 Parakou",
+      "ville": "PARAKOU",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Coordination OUEME - PLATEAU",
+      "quartier": "OUANDO DJRADO",
+      "bp": "BP : 1458",
+      "ville": "PORTO-NOVO",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Coordination ZOU-COLLINES",
+      "quartier": "ZONGO",
+      "bp": null,
+      "ville": "BOHICON",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    },
+    {
+      "nom": "Centre Socio-Educatif de Savalou",
+      "quartier": "GBAFFO",
+      "bp": "BP : 2188 BOHICON",
+      "ville": "SAVALOU",
+      "pays": "République du Bénin",
+      "telephone": "91532525 (APPEL GRATUIT)",
+      "notes": null
+    }
+  ]
+}

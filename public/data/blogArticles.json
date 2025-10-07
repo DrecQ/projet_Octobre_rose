@@ -1,0 +1,324 @@
+{
+  "articles": [
+
+        {
+            "title": "Le cancer du sein est toujours douloureux : une idée reçue à déconstruire",
+            "slug": "cancer-sein-douleur-mythe",
+            "meta_description": "Contrairement aux idées reçues, le cancer du sein n'est pas toujours douloureux. Découvrez pourquoi l'absence ou la présence de douleur n'est pas un indicateur fiable.",
+            "keywords": ["cancer du sein", "douleur", "idée reçue", "dépistage cancer"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Beaucoup de personnes associent la douleur à la présence d’un cancer du sein. Pourtant, la réalité médicale est bien différente. Cette idée reçue peut retarder le dépistage et mettre en danger la santé des femmes.",
+            "H1": "Le cancer du sein n’est pas toujours douloureux",
+            "content_H1": "La majorité des cancers du sein détectés à un stade précoce ne provoquent aucune douleur. La douleur apparaît souvent à un stade plus avancé ou peut être liée à d'autres pathologies bénignes comme les kystes ou les infections.",
+            "H2": "Pourquoi la douleur ne doit pas être un critère",
+            "content_H2": "La douleur n’est pas un signe fiable de cancer du sein. De nombreuses femmes touchées n’ont ressenti aucune gêne au moment du diagnostic. Attendre une douleur pour consulter est donc risqué. Les médecins insistent sur l’importance du dépistage régulier même en l’absence de symptômes.",
+            "conclusion": "Il est essentiel de comprendre que l’absence de douleur ne signifie pas absence de maladie. Le meilleur réflexe reste le dépistage préventif et la vigilance face à tout changement dans la poitrine."
+            }
+        },
+        {
+            "title": "Une bosse dans le sein est forcément un cancer ?",
+            "slug": "bosse-sein-cancer",
+            "meta_description": "Toutes les bosses dans le sein ne sont pas des cancers. Découvrez les causes possibles et pourquoi un dépistage médical est essentiel.",
+            "keywords": ["bosse sein", "cancer", "kyste", "diagnostic sein"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Découvrir une bosse dans son sein provoque souvent une grande inquiétude. Beaucoup pensent immédiatement au cancer, mais la réalité est plus nuancée.",
+            "H1": "Toutes les bosses ne sont pas cancéreuses",
+            "content_H1": "De nombreuses bosses sont bénignes. Il peut s’agir de kystes, de fibroadénomes ou de simples variations hormonales. Néanmoins, une évaluation médicale est toujours nécessaire pour écarter un risque cancéreux.",
+            "H2": "Pourquoi consulter reste indispensable",
+            "content_H2": "Même si la majorité des bosses ne sont pas liées à un cancer, seule une mammographie ou une échographie peut donner une réponse claire. L’autopalpation reste utile, mais elle ne remplace pas le suivi médical.",
+            "conclusion": "Une bosse n’est pas synonyme de cancer, mais elle ne doit jamais être ignorée. Consulter rapidement permet de lever le doute et de protéger sa santé."
+            }
+        },
+        {
+            "title": "La mammographie est très douloureuse : vrai ou faux ?",
+            "slug": "mammographie-douleur",
+            "meta_description": "La mammographie est souvent perçue comme très douloureuse. Mais est-ce vraiment le cas ? Découvrez la vérité et comment mieux vivre cet examen.",
+            "keywords": ["mammographie", "cancer du sein", "dépistage", "douleur"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "L’une des raisons pour lesquelles certaines femmes évitent le dépistage est la peur de la douleur lors de la mammographie.",
+            "H1": "La mammographie peut être inconfortable, pas insupportable",
+            "content_H1": "L’examen consiste à comprimer légèrement le sein pour obtenir une image nette. Cette compression peut générer une gêne ou une douleur passagère, mais elle est généralement supportable et dure quelques secondes.",
+            "H2": "Des techniques pour réduire l’inconfort",
+            "content_H2": "Programmer l’examen en dehors de la période prémenstruelle, prévenir le radiologue en cas de sensibilité particulière et se détendre pendant la procédure peuvent grandement améliorer le confort.",
+            "conclusion": "La mammographie n’est pas un examen agréable, mais sa douleur est largement exagérée. Son importance pour sauver des vies doit primer sur cette crainte."
+            }
+        },
+        {
+            "title": "Faut-il être complètement nue pour une mammographie ?",
+            "slug": "mammographie-nue",
+            "meta_description": "Beaucoup de femmes pensent qu'il faut se dévêtir entièrement pour une mammographie. Découvrez la vérité sur cet examen médical.",
+            "keywords": ["mammographie", "dépistage", "examen médical", "cancer du sein"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "La gêne liée à l’idée de se déshabiller complètement est un frein pour certaines femmes au dépistage.",
+            "H1": "Seule la poitrine doit être découverte",
+            "content_H1": "Lors d’une mammographie, il n’est pas nécessaire de se dénuder entièrement. Seuls le haut du corps et la poitrine doivent être accessibles pour l’examen.",
+            "H2": "Un examen respectueux de l’intimité",
+            "content_H2": "Les cabinets médicaux sont équipés de cabines permettant aux patientes de se changer en toute discrétion. L’intimité et la dignité des femmes sont respectées tout au long de l’examen.",
+            "conclusion": "Il est important de démystifier la mammographie : il n’est pas question de se dénuder totalement. Cet examen est encadré pour garantir respect et sécurité."
+            }
+        },
+        {
+            "title": "Le cancer du sein cause toujours une bosse visible ?",
+            "slug": "cancer-sein-bosse",
+            "meta_description": "Une bosse n’est pas toujours présente en cas de cancer du sein. Découvrez les autres signes qui doivent alerter.",
+            "keywords": ["cancer du sein", "bosse", "symptômes cancer", "dépistage"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Beaucoup pensent que le cancer du sein se manifeste uniquement par une bosse palpable. Cette croyance peut retarder le diagnostic.",
+            "H1": "Le cancer du sein peut se manifester autrement",
+            "content_H1": "Des changements dans la texture de la peau, une rétraction du mamelon, un écoulement anormal ou une modification de la forme du sein peuvent être des signes précoces.",
+            "H2": "Pourquoi il ne faut pas attendre une bosse",
+            "content_H2": "La bosse palpable apparaît souvent à un stade déjà avancé. Miser uniquement sur ce signe retarde la détection. D’où l’importance des examens de dépistage réguliers.",
+            "conclusion": "Le cancer du sein ne se résume pas à une bosse. D’autres signaux existent et doivent inciter à consulter sans tarder."
+            }
+        },
+        {
+            "title": "Des seins douloureux annoncent toujours un cancer ?",
+            "slug": "seins-douloureux-cancer",
+            "meta_description": "Les douleurs mammaires sont fréquentes et ne signifient pas forcément un cancer. Découvrez leurs causes et quand consulter.",
+            "keywords": ["douleurs mammaires", "cancer du sein", "symptômes", "idées reçues"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Les douleurs aux seins inquiètent souvent et sont parfois directement associées au cancer.",
+            "H1": "Les douleurs mammaires ont souvent d’autres causes",
+            "content_H1": "Elles peuvent être liées aux cycles hormonaux, à des kystes bénins, à des infections ou encore à un soutien-gorge inadapté. Le cancer n’est qu’une cause parmi d’autres, et loin d’être la plus fréquente.",
+            "H2": "Quand faut-il consulter ?",
+            "content_H2": "Il est recommandé de consulter si la douleur persiste, s’aggrave ou s’accompagne de changements visibles dans le sein. Le médecin décidera alors si un examen complémentaire est nécessaire.",
+            "conclusion": "Les douleurs mammaires ne sont pas synonymes de cancer. Elles nécessitent une vigilance, mais pas d’inquiétude systématique."
+            }
+        },
+        {
+            "title": "Pas de douleur, pas de cancer : une idée dangereuse",
+            "slug": "cancer-sans-douleur",
+            "meta_description": "L’absence de douleur ne signifie pas l’absence de cancer du sein. Découvrez pourquoi il ne faut pas attendre de souffrir pour se faire dépister.",
+            "keywords": ["cancer du sein", "douleur", "dépistage", "idées reçues"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Certaines femmes pensent qu’elles ne risquent rien si elles ne ressentent aucune douleur au sein.",
+            "H1": "Le cancer du sein évolue souvent en silence",
+            "content_H1": "De nombreux cancers du sein se développent sans provoquer de douleur. Ce n’est qu’à un stade avancé que les symptômes deviennent plus marqués.",
+            "H2": "Le rôle vital du dépistage",
+            "content_H2": "Le dépistage régulier permet de détecter des tumeurs silencieuses et d’augmenter considérablement les chances de guérison. Se fier uniquement à la douleur est dangereux.",
+            "conclusion": "L’absence de douleur n’est pas un gage de bonne santé. Le dépistage reste le meilleur allié pour détecter le cancer à temps."
+            }
+        },
+        {
+            "title": "La mammographie provoque le cancer à cause des rayons ?",
+            "slug": "mammographie-rayons",
+            "meta_description": "La mammographie utilise des rayons X, mais le risque de cancer est infime comparé aux bénéfices du dépistage. Voici pourquoi.",
+            "keywords": ["mammographie", "rayons X", "cancer du sein", "idée reçue"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "La crainte des rayons X dissuade certaines femmes de réaliser une mammographie.",
+            "H1": "Un rayonnement très faible",
+            "content_H1": "La dose reçue lors d’une mammographie est extrêmement faible et ne présente pas de danger significatif. Elle est comparable à quelques semaines d’exposition naturelle aux rayons du soleil.",
+            "H2": "Un bénéfice largement supérieur au risque",
+            "content_H2": "Les bénéfices du dépistage dépassent largement le risque hypothétique d’un rayonnement. La détection précoce sauve des milliers de vies chaque année.",
+            "conclusion": "La mammographie est un examen sûr. Les craintes liées aux rayons ne doivent pas empêcher les femmes de se faire dépister."
+            }
+        },
+        {
+            "title": "Après 75 ans, plus besoin de dépistage ?",
+            "slug": "depistage-apres-75-ans",
+            "meta_description": "Le cancer du sein peut toucher les femmes après 75 ans. Découvrez pourquoi le suivi médical reste essentiel à tout âge.",
+            "keywords": ["cancer du sein", "dépistage", "santé seniors", "idée reçue"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "Beaucoup pensent que le dépistage n’est plus utile après un certain âge.",
+            "H1": "Le risque ne disparaît pas avec l’âge",
+            "content_H1": "Le cancer du sein peut survenir même après 75 ans. Les femmes âgées restent exposées, bien que les protocoles de dépistage puissent s’adapter à leur état de santé général.",
+            "H2": "Un suivi personnalisé",
+            "content_H2": "Plutôt que d’arrêter tout dépistage, il est conseillé de discuter avec son médecin pour déterminer la meilleure stratégie en fonction de son profil médical.",
+            "conclusion": "Le dépistage ne doit pas être négligé après 75 ans. Il doit simplement être adapté à chaque personne."
+            }
+        },
+        {
+            "title": "Le dépistage provoque trop de surdiagnostics inutiles",
+            "slug": "depistage-surdiagnostic",
+            "meta_description": "Le dépistage du cancer du sein est parfois accusé d’entraîner des surdiagnostics. Découvrez ce que cela signifie vraiment.",
+            "keywords": ["dépistage", "cancer du sein", "surdiagnostic", "idées reçues"],
+            "category": "diagnostic",
+            "structure": {
+            "introduction": "On entend souvent que le dépistage du cancer du sein engendre trop de surdiagnostics et de traitements inutiles.",
+            "H1": "Qu’est-ce que le surdiagnostic ?",
+            "content_H1": "Le surdiagnostic correspond à la détection de petites tumeurs qui n’auraient pas évolué vers un cancer dangereux. Mais il est impossible de savoir à l’avance lesquelles sont bénignes.",
+            "H2": "Pourquoi le dépistage reste essentiel",
+            "content_H2": "Même s’il peut conduire à certains traitements inutiles, le dépistage sauve bien plus de vies qu’il n’occasionne de désagréments. Les médecins préfèrent prévenir qu’ignorer un cancer agressif.",
+            "conclusion": "Le surdiagnostic existe, mais il ne doit pas remettre en cause l’importance du dépistage. Celui-ci reste une arme indispensable contre le cancer du sein."
+            }
+        }
+        ,
+        {
+            "title": "Le cancer du sein ne se guérit jamais : un mythe dangereux",
+            "slug": "cancer-sein-guerison",
+            "meta_description": "Beaucoup pensent que le cancer du sein est incurable. Pourtant, les avancées médicales permettent aujourd’hui de nombreuses guérisons.",
+            "keywords": ["cancer du sein", "guérison", "traitement cancer", "idée reçue"],
+            "category": "traitement",
+            "structure": {
+            "introduction": "L’idée que le cancer du sein ne se guérit jamais est l’une des croyances les plus angoissantes. Pourtant, elle ne reflète pas la réalité actuelle des soins.",
+            "H1": "Oui, le cancer du sein peut être guéri",
+            "content_H1": "Grâce aux dépistages précoces et aux traitements modernes (chirurgie, radiothérapie, chimiothérapie, hormonothérapie), de nombreuses femmes guérissent totalement de leur cancer du sein. Les taux de survie à 5 ans dépassent 85 % dans les pays développés.",
+            "H2": "Le rôle clé du dépistage et des traitements",
+            "content_H2": "Plus le cancer est détecté tôt, plus les chances de guérison sont élevées. Les traitements sont de plus en plus personnalisés, adaptés au profil biologique de la tumeur et à la patiente.",
+            "conclusion": "Non, le cancer du sein n’est pas une condamnation automatique. La science et la médecine offrent aujourd’hui de réelles perspectives de guérison."
+            }
+        },
+        {
+            "title": "Un sein opéré n’est plus féminin : une idée reçue blessante",
+            "slug": "sein-opere-feminite",
+            "meta_description": "Beaucoup craignent de perdre leur féminité après une opération du sein. Pourtant, la féminité dépasse largement l’apparence physique.",
+            "keywords": ["sein opéré", "féminité", "cancer du sein", "chirurgie"],
+            "category": "traitement",
+            "structure": {
+            "introduction": "La chirurgie du sein, notamment la mastectomie, fait peur à de nombreuses femmes. Certaines pensent qu’elles perdront leur identité féminine.",
+            "H1": "La féminité ne se réduit pas au sein",
+            "content_H1": "La perte d’un sein peut être difficile à vivre, mais elle ne définit pas la féminité. La personnalité, la confiance en soi, la beauté et la force d’une femme ne disparaissent pas avec une opération.",
+            "H2": "Reconstructions et accompagnement psychologique",
+            "content_H2": "La chirurgie reconstructrice offre aujourd’hui des solutions esthétiques très naturelles. Par ailleurs, un soutien psychologique peut aider à traverser cette étape et à redéfinir sa perception de soi.",
+            "conclusion": "Un sein opéré n’enlève rien à la féminité d’une femme. Elle reste entière, belle et digne, avec ou sans reconstruction."
+            }
+        },
+        {
+            "title": "La pilule contraceptive conduit inévitablement au cancer du sein ?",
+            "slug": "pilule-contraceptive-cancer",
+            "meta_description": "La pilule contraceptive est souvent accusée de causer le cancer du sein. Qu’en est-il vraiment selon la science ?",
+            "keywords": ["pilule contraceptive", "cancer du sein", "risque cancer", "idée reçue"],
+            "category": "traitement",
+            "structure": {
+            "introduction": "L’une des inquiétudes fréquentes chez les femmes concerne la relation entre pilule contraceptive et cancer du sein.",
+            "H1": "Un risque légèrement augmenté, pas une fatalité",
+            "content_H1": "Certaines études montrent un risque légèrement plus élevé de cancer du sein chez les femmes qui prennent la pilule. Cependant, ce risque diminue fortement après l’arrêt de la contraception.",
+            "H2": "Un bénéfice-risque à mettre en balance",
+            "content_H2": "La pilule protège contre certains cancers (ovaire, endomètre) et reste une méthode contraceptive efficace. Le choix doit être personnalisé en fonction des antécédents familiaux et médicaux.",
+            "conclusion": "La pilule ne conduit pas inévitablement au cancer. Elle doit être prescrite et surveillée par un médecin, qui évaluera les bénéfices et les risques pour chaque femme."
+            }
+        },
+        {
+            "title": "Il n’existe aucun traitement efficace contre le cancer du sein ?",
+            "slug": "traitement-efficace-cancer-sein",
+            "meta_description": "Contrairement aux idées reçues, plusieurs traitements efficaces existent aujourd’hui contre le cancer du sein, souvent combinés.",
+            "keywords": ["traitements cancer du sein", "efficacité", "idée reçue", "guérison"],
+            "category": "traitement",
+            "structure": {
+            "introduction": "L’idée qu’il n’existe aucun traitement efficace contre le cancer du sein est une croyance qui alimente la peur et le désespoir.",
+            "H1": "De nombreux traitements existent et sauvent des vies",
+            "content_H1": "La chirurgie, la radiothérapie, la chimiothérapie, l’hormonothérapie et les thérapies ciblées sont utilisées selon le type de cancer. Leur efficacité est prouvée scientifiquement.",
+            "H2": "Vers une médecine personnalisée",
+            "content_H2": "Les avancées médicales permettent d’adapter les traitements à chaque patiente. Cette personnalisation augmente l’efficacité et réduit les effets secondaires.",
+            "conclusion": "Les traitements du cancer du sein existent bel et bien et sauvent chaque jour des milliers de vies. Ce cliché est donc faux et dangereux."
+            }
+        },
+        {
+            "title": "Le cancer du sein est une condamnation irréversible ?",
+            "slug": "cancer-sein-condamnation",
+            "meta_description": "Le diagnostic de cancer du sein n’est pas une condamnation. Découvrez pourquoi l’espoir et la guérison sont possibles.",
+            "keywords": ["cancer du sein", "condamnation", "espoir", "traitement"],
+            "category": "traitement",
+            "structure": {
+            "introduction": "Beaucoup de femmes pensent que le diagnostic de cancer du sein est synonyme de fin inévitable. C’est une idée reçue à combattre.",
+            "H1": "Des chances de guérison bien réelles",
+            "content_H1": "Les progrès médicaux permettent à une majorité de patientes de guérir, surtout si le cancer est détecté tôt. Même dans les cas avancés, des traitements prolongent la vie avec une bonne qualité.",
+            "H2": "L’importance du soutien et de l’accompagnement",
+            "content_H2": "Outre les traitements médicaux, l’accompagnement psychologique, familial et social joue un rôle déterminant dans la lutte contre la maladie.",
+            "conclusion": "Le cancer du sein n’est pas une condamnation irréversible. La médecine et le soutien humain offrent aujourd’hui de véritables perspectives d’espoir."
+            }
+        }, 
+
+        {
+            "title": "Le cancer du sein ne touche-t-il que les femmes ?",
+            "slug": "cancer-sein-touche-femmes-seulement",
+            "meta_description": "Le cancer du sein concerne surtout les femmes, mais les hommes peuvent aussi être touchés. Informez-vous sur signes, dépistage et prise en charge.",
+            "keywords": ["cancer du sein hommes", "cancer sein femmes", "risque cancer", "sensibilisation"],
+            "category": "risque",
+            "structure": {
+            "introduction": "On entend souvent que le cancer du sein concerne uniquement les femmes. Cette représentation est majoritaire — pourtant, les hommes peuvent aussi développer un cancer du sein, même si c’est rare. Informer les deux sexes permet une meilleure détection et supprime une barrière à la consultation quand un homme remarque un signe suspect.",
+            "H1": "Les hommes peuvent-ils aussi avoir un cancer du sein ?",
+            "content_H1": "Oui. Bien que le cancer du sein soit majoritairement féminin, les hommes possèdent du tissu mammaire et peuvent, parfois, développer des tumeurs mammaires. Les cas masculins restent minoritaires (une petite proportion des cas globaux), mais ils existent et nécessitent la même attention que chez les femmes : masse au niveau du sein, écoulement du mamelon, rétraction cutanée ou douleur localisée doivent pousser à consulter.",
+            "H2": "Pourquoi la sensibilisation des hommes est importante",
+            "content_H2": "Parce que le manque d’information peut retarder le diagnostic chez l’homme. Beaucoup d’hommes ignorent qu’ils peuvent être concernés et hésitent à consulter par pudeur ou par méconnaissance. Or, le diagnostic précoce améliore le pronostic. Les campagnes et les professionnels de santé doivent donc rappeler que la vigilance s’applique à tous les genres.",
+            "conclusion": "Le cancer du sein touche surtout les femmes mais pas exclusivement. Informer et lever les tabous aide à repérer les signes précocement chez toute personne — homme ou femme — et à consulter sans attendre."
+            }
+        },
+        {
+            "title": "Le cancer du sein concerne-t-il uniquement les personnes âgées ?",
+            "slug": "cancer-sein-uniquement-personnes-agees",
+            "meta_description": "Le risque augmente avec l’âge, mais le cancer du sein peut toucher les plus jeunes. Comprenez les signes et l’importance de la vigilance à tout âge.",
+            "keywords": ["cancer sein âge", "jeunes et cancer sein", "dépistage", "prévention"],
+            "category": "risque",
+            "structure": {
+            "introduction": "Beaucoup pensent que le cancer du sein n’affecte que les personnes âgées. Si le risque global augmente avec les années, la maladie peut aussi survenir chez des femmes jeunes. Cette fausse sécurité peut conduire à négliger des signes importants et retarder le diagnostic.",
+            "H1": "Le lien entre âge et risque de cancer du sein",
+            "content_H1": "Le risque de développer un cancer du sein croît généralement avec l’âge, en particulier après la ménopause. Cependant, des cas chez des femmes dans la vingtaine ou la trentaine existent : ils sont moins fréquents mais parfois plus agressifs. C’est pourquoi la connaissance des signes et l’accès facile à un examen médical restent importants pour toutes les tranches d’âge.",
+            "H2": "Comment rester vigilant quand on est jeune",
+            "content_H2": "Les jeunes femmes doivent connaître les signaux (masse, modification cutanée, écoulement du mamelon) et consulter rapidement en cas d’anomalie. Les professionnels de santé adaptent la stratégie diagnostique selon l’âge : échographie et examen clinique sont privilégiés chez les plus jeunes, la mammographie étant habituellement réservée aux âges recommandés.",
+            "conclusion": "Le cancer du sein n’est pas l’apanage des personnes âgées. La vigilance et la connaissance des signes restent utiles à tout âge pour détecter précocement une anomalie et agir vite."
+            }
+        },
+        {
+            "title": "Si personne dans ma famille n’en a eu, suis-je hors de danger ?",
+            "slug": "cancer-sein-pas-antcedents-familiaux",
+            "meta_description": "L’absence d’antécédents familiaux ne garantit pas l’absence de risque. La plupart des cancers du sein sont sporadiques : vigilance et dépistage restent essentiels.",
+            "keywords": ["antécédents familiaux cancer", "risque sporadique", "dépistage cancer sein"],
+            "category": "risque",
+            "structure": {
+            "introduction": "Beaucoup se rassurent en se disant « personne dans ma famille n’en a eu », pensant être à l’abri. En réalité, la plupart des cancers du sein surviennent sans antécédent familial connu. Comprendre la différence entre risque héréditaire et risque sporadique aide à mieux se protéger.",
+            "H1": "Hérédité vs cas sporadiques : quelle proportion ?",
+            "content_H1": "Une fraction des cancers du sein est liée à des mutations héréditaires (par exemple BRCA), mais l’immense majorité des cas survient de façon sporadique, sans transmission familiale identifiable. Cela signifie que l’absence de cas dans la famille n’élimine pas le risque : facteurs hormonaux, âge, mode de vie et environnement interviennent également.",
+            "H2": "Que faire si vous n’avez pas d’antécédents familiaux ?",
+            "content_H2": "Restez vigilant(e) : pratiquez l’auto-examen, suivez les recommandations de dépistage selon l’âge et consultez en cas de changement. Les tests génétiques sont réservés aux situations à haut risque familial et prescrits après conseil spécialisé.",
+            "conclusion": "Ne vous reposez pas sur l’absence d’antécédents familiaux. La prévention et le dépistage concernent tout le monde, pas seulement les familles à risque."
+            }
+        },
+        {
+            "title": "Le cancer du sein est-il forcément héréditaire ?",
+            "slug": "cancer-sein-forcement-hereditare",
+            "meta_description": "La plupart des cancers du sein ne sont pas héréditaires. Les mutations familiales existent mais concernent une minorité des cas — savoir quand envisager un test génétique.",
+            "keywords": ["hérédité cancer sein", "BRCA", "test génétique", "risque familial"],
+            "category": "risque",
+            "structure": {
+            "introduction": "L’idée que tous les cancers du sein sont transmis par la famille est répandue, mais inexacte. Seules certaines formes sont liées à des mutations génétiques héréditaires. Identifier ces situations permet d’offrir un suivi adapté aux personnes concernées.",
+            "H1": "Quelles parts sont réellement héréditaires ?",
+            "content_H1": "Une minorité des cancers du sein provient de mutations germinales identifiables (par exemple BRCA1/2). La grande majorité des cas est dite sporadique et résulte d’un mélange de facteurs environnementaux, hormonaux et de vieillissement. Le test génétique est proposé sur critères précis (histoire familiale, âge de survenue, types de tumeurs).",
+            "H2": "Quand envisager un test génétique ?",
+            "content_H2": "Le test se discute si plusieurs cas rapprochés existent dans la famille, si des cancers précoces sont apparus ou si la tumeur présente des caractéristiques particulières. Il se fait après conseil génétique et permet parfois de proposer des mesures de prévention ou de surveillance renforcée pour les proches à risque.",
+            "conclusion": "Le cancer du sein n’est pas forcément héréditaire. La génétique joue un rôle chez une minorité ; pour la majorité, la prévention, le dépistage et le mode de vie restent essentiels."
+            }
+        },
+        {
+            "title": "Mettre du déodorant augmente-t-il le risque de cancer du sein ?",
+            "slug": "deodorant-risque-cancer-sein",
+            "meta_description": "De nombreuses rumeurs lient déodorant et cancer du sein. Les études n’ont pas confirmé de lien causal : concentrez-vous sur les facteurs de risque avérés.",
+            "keywords": ["déodorant cancer", "antitranspirant mythes", "risque cancer sein", "prévention"],
+            "category": "risque",
+            "structure": {
+            "introduction": "Le lien entre déodorant/antitranspirant et cancer du sein circule depuis longtemps. C’est une source d’inquiétude pour beaucoup. Après examen des études disponibles, les preuves d’un lien causal direct sont inexistantes ou insuffisantes.",
+            "H1": "Que disent les études scientifiques ?",
+            "content_H1": "Les hypothèses portaient sur l’absorption de certains composants (sels d’aluminium, parabènes) et leur possible action hormonale. Or, les études épidémiologiques de qualité n’ont pas mis en évidence de relation claire et reproductible entre l’usage de déodorants et l’augmentation du risque de cancer du sein. Les agences sanitaires recommandent donc de ne pas s’alarmer et de se concentrer sur des facteurs établis.",
+            "H2": "Sur quoi faut-il plutôt agir pour réduire le risque ?",
+            "content_H2": "Les mesures utiles et prouvées sont : limiter la consommation d’alcool, maintenir un poids sain, pratiquer une activité physique régulière, et respecter les programmes de dépistage. Ces leviers ont un impact concret sur le risque, contrairement aux rumeurs liées aux cosmétiques.",
+            "conclusion": "Mettre du déodorant n’est pas reconnu comme une cause du cancer du sein. Pour protéger sa santé, privilégiez les actions scientifiquement validées et consultez un professionnel en cas d’inquiétude."
+            }
+        },
+        {
+            "title": "L’alimentation n’a-t-elle aucun lien avec le cancer du sein ?",
+            "slug": "alimentation-cancer-sein-lien",
+            "meta_description": "L’alimentation influence certains facteurs de risque du cancer du sein (poids, alcool). Une alimentation saine participe à la prévention mais ne garantit pas l'absence totale de risque.",
+            "keywords": ["alimentation cancer sein", "prévention nutrition", "obésité alcool cancer", "santé"],
+            "category": "risque",
+            "structure": {
+            "introduction": "Dire que l’alimentation n’a aucun lien avec le cancer du sein est une idée reçue qui simplifie à l’excès. Si l’alimentation n’est pas le seul facteur, elle influence plusieurs mécanismes associés au risque, notamment le poids corporel et la consommation d’alcool.",
+            "H1": "Quel rôle joue l’alimentation dans le risque ?",
+            "content_H1": "Un excès de poids, en particulier après la ménopause, est un facteur de risque reconnu pour le cancer du sein. De même, la consommation d’alcool augmente le risque. À l’inverse, un régime riche en fruits, légumes, fibres et pauvres en aliments ultra-transformés est associé à une meilleure santé globale et peut contribuer à réduire certains risques. L’alimentation agit donc surtout via des mécanismes indirects (poids, métabolisme, inflammation).",
+            "H2": "Conseils pratiques pour une alimentation protectrice",
+            "content_H2": "Favorisez une alimentation variée et riche en végétaux, limitez l’alcool, contrôlez votre poids et pratiquez une activité physique régulière. Ces habitudes réduisent plusieurs facteurs de risque pour le cancer du sein et améliorent la santé en général.",
+            "conclusion": "L’alimentation n’est pas la seule cause du cancer du sein, mais elle influe sur des facteurs importants. Adopter une alimentation saine fait partie d’une stratégie globale de prévention."
+            }
+        }
+
+    ]
+
+}
