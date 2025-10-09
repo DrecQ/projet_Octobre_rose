@@ -51,7 +51,7 @@
       <div class="bg-white rounded-2xl p-6 md:p-8 border border-gray-200 mb-12 md:mb-16">
         <div class="text-center mb-8">
           <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
-            Dépistage <span class="text-pink-600">orgnisé</span>
+            Dépistage <span class="text-pink-600">organisé</span>
           </h2>
           <p class="text-gray-600 text-lg">
             Un accompagnement adapté à chaque étape de la vie

@@ -194,7 +194,7 @@
                   ? 'bg-pink-600 text-white border-pink-600 shadow-md' 
                   : 'bg-white text-gray-700 border-gray-300 hover:border-pink-300 hover:shadow-sm'"
               >
-                🇬🇧 English
+                🇬🇧 English 
               </button>
             </div>
           </div>

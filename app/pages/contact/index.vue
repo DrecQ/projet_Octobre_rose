@@ -35,7 +35,7 @@
             Pour toutes informations et conseils
           </p>
           <div class="text-3xl md:text-4xl font-bold text-pink-600 bg-pink-50 rounded-xl p-4 inline-block">
-            91 53 25 25
+            01 91 53 25 25
           </div>
           <p class="text-gray-500 text-sm mt-3">Du lundi au vendredi, 8h-18h</p>
         </div>
@@ -196,7 +196,7 @@
       <div class="text-center">
         <div class="bg-white rounded-2xl p-6 md:p-8 border border-gray-200 shadow-sm">
           <h3 class="text-xl md:text-2xl font-bold text-gray-900 mb-4">
-            Prenez rendez-vous dès aujourd'hui
+            Prenez rendez-vous <span class="text-pink-600">dès aujourd'hui</span>
           </h3>
           <p class="text-gray-600 mb-6 max-w-2xl mx-auto">
             Ne laissez pas l'inquiétude vous gagner. Une consultation précoce 
@@ -207,7 +207,7 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
               </svg>
-              Appeler le 91 53 25 25
+              Appeler le 01 91 53 25 25
             </button>
             <button class="border-2 border-pink-600 text-pink-600 px-6 py-3 rounded-xl font-semibold hover:bg-pink-50 transition-colors duration-300 flex items-center justify-center gap-3">
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -237,7 +237,7 @@ export default {
           "bp": "01BP 1486",
           "ville": "Cotonou",
           "pays": "République du Bénin",
-          "telephone": "91532424",
+          "telephone": "0191532424",
           "email": "abpf@abpf.org",
           "notes": null
         },
@@ -248,7 +248,7 @@ export default {
           "bp": "01BP 1486",
           "ville": "Cotonou",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -257,7 +257,7 @@ export default {
           "bp": null,
           "ville": "Cotonou",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -266,7 +266,7 @@ export default {
           "bp": "BP : 110 LOKOSSA",
           "ville": "LOKOSSA",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -275,7 +275,7 @@ export default {
           "bp": "BP : 81 Natitingou",
           "ville": "NATITINGOU",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -284,7 +284,7 @@ export default {
           "bp": "BP : 34 Parakou",
           "ville": "PARAKOU",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -293,7 +293,7 @@ export default {
           "bp": "BP : 1458",
           "ville": "PORTO-NOVO",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -302,7 +302,7 @@ export default {
           "bp": null,
           "ville": "BOHICON",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         },
         {
@@ -311,7 +311,7 @@ export default {
           "bp": "BP : 2188 BOHICON",
           "ville": "SAVALOU",
           "pays": "République du Bénin",
-          "telephone": "91532525 (APPEL GRATUIT)",
+          "telephone": "0191532525 (APPEL GRATUIT)",
           "notes": null
         }
       ],
