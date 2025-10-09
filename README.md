@@ -1,3 +1,56 @@
+# 🎀 Octobre Rose - Projet de sensibilisation
+
+Ce projet a été réalisé dans le cadre de mon apprentissage de *Nuxt.js, un framework JavaScript moderne basé sur **Vue.js*.  
+L’objectif était de comprendre les *bases de la génération de sites statiques (SSG), la **structure d’un projet Nuxt, et la **mise en ligne sur Netlify*.
+
+---
+
+## 🚀 Objectif du projet
+Créer un mini-site de *sensibilisation au cancer du sein*, avec plusieurs pages :
+- *Accueil* : présentation de la campagne Octobre Rose
+- *Symptômes* : informations sur les signes à surveiller
+- *Prévention* : conseils pour réduire les risques
+- *Blog* : articles informatifs (contenu en cours)
+- *Qui contacter ?* : ressources et numéros utiles
+
+---
+
+## 🧠 Technologies utilisées
+- *Nuxt 3* (Vue.js framework)
+- *Tailwind CSS* pour le style
+- *Netlify* pour le déploiement
+- *Markdown / YAML* pour le contenu statique
+
+---
+
+## 💡 Ce que j’ai appris
+- Structure et logique d’un projet Nuxt 3
+- Création de routes et pages automatiques
+- Génération de site statique (nuxt generate)
+- Déploiement sur Netlify
+- Gestion du routing, du layout et des composants
+- Bases de SEO et d’accessibilité web
+
+---
+
+## 🔧 Prochaines étapes
+- Ajouter plus de contenu (blog, contact)
+- Améliorer le design et les animations
+- Optimiser les performances
+- Ajouter un formulaire de contact et un back-office simple
+
+---
+
+## 👨🏽‍💻 Auteur
+*Evariste Credo Quist*  
+Étudiant en architecture logicielle | Passionné de développement web et d’IA  
+📧 [email protected]
+
+---
+
+🩷 Ce projet s’inscrit dans une démarche d’apprentissage et de sensibilisation : apprendre à coder, tout en partageant un message humain et utile.
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
